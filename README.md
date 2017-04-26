@@ -1,24 +1,8 @@
-# README
+This is the first rails app with BDD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Git for version control.
+  - Check status 
+  - Add files
+  - Commit changes
+  - Push code to online repository
+  - 
